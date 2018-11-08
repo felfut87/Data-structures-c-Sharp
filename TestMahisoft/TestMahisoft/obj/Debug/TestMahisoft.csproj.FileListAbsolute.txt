@@ -1,0 +1,6 @@
+c:\users\oscar.zambrano\documents\visual studio 2015\Projects\TestMahisoft\TestMahisoft\bin\Debug\TestMahisoft.exe.config
+c:\users\oscar.zambrano\documents\visual studio 2015\Projects\TestMahisoft\TestMahisoft\bin\Debug\TestMahisoft.exe
+c:\users\oscar.zambrano\documents\visual studio 2015\Projects\TestMahisoft\TestMahisoft\bin\Debug\TestMahisoft.pdb
+c:\users\oscar.zambrano\documents\visual studio 2015\Projects\TestMahisoft\TestMahisoft\obj\Debug\TestMahisoft.csprojResolveAssemblyReference.cache
+c:\users\oscar.zambrano\documents\visual studio 2015\Projects\TestMahisoft\TestMahisoft\obj\Debug\TestMahisoft.exe
+c:\users\oscar.zambrano\documents\visual studio 2015\Projects\TestMahisoft\TestMahisoft\obj\Debug\TestMahisoft.pdb
